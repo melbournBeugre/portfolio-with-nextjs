@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex flex-col items-center justify-center min-h-screen bg-gray-100 px-4 text-center">
+    <main className="flex flex-col items-center justify-center min-h-screen bg-yellow-100 px-4 text-center">
       <h1 className="text-3xl sm:text-4xl font-bold">
         Bienvenue sur mon Portfolio
       </h1>
